@@ -14,7 +14,7 @@ React with Redux for frontend, flask for backend, and mongoDB for storage (?).
 
 
 ## scratchpad
-                     
+                        
 - tiny moving planes to show popular routes?
 - countries/states moving up and down might be a complicated maneuver, ie drawing lots of shapes to render as 3d objects
 - learn more about gsap, Three.js, flask
