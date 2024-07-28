@@ -10,7 +10,18 @@ the most popular and most vacant, and will uncover the best value for any travel
 whether they seek to follow the crowd or avoid it, to lavish or to thrift.
 
 Traveluxe will employ Three.js and gsap for 3D modelling and animation, \
-React with Redux for front end 
+React with Redux for frontend, flask for backend, and mongoDB for storage (?).
+
+
+## scratchpad
+
+- tiny moving planes to show popular routes?
+- countries/states moving up and down might be a complicated maneuver, ie drawing lots of shapes to render as 3d objects
+- learn more about gsap, Three.js, flask
+- learn python 
+- learn everything 
+-  auth? saved travel routes? backend functionality? 
+- apis?
 
 
 
