@@ -15,11 +15,13 @@ Development roadmap:
 -> profit
 
 
+
+
 Organizing wireframe:
 
 ![alt text](assets/travel_wireframe.png)
 
 Tech Stack:
-Frontend: React with Redux
+Frontend: React with Redux, ThreeJS for 3D modelling
 Backend: Flask
 Database: PostgreSQL
