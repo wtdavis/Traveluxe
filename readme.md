@@ -13,6 +13,7 @@ Development roadmap:
 
 -start from nothing, build website.
 -> profit
+-api keys, api data, cacheing
 
 
 
