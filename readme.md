@@ -18,3 +18,5 @@ Development roadmap:
 Organizing wireframe:
 
 ![alt text](assets/travel_wireframe.png)
+
+Tech Stack:
