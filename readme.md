@@ -21,3 +21,4 @@ Organizing wireframe:
 
 Tech Stack:
 Frontend: React with Redux
+Backend: Flask
