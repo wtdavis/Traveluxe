@@ -20,3 +20,4 @@ Organizing wireframe:
 ![alt text](assets/travel_wireframe.png)
 
 Tech Stack:
+Frontend: React with Redux
