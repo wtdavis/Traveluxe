@@ -1,0 +1,26 @@
+{
+  "name": "traveluxe",
+  "version": "1.0.0",
+  "description": "data visualizer for flight data trends",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wtdavis/Traveluxe.git"
+  },
+  "author": "Will Davis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wtdavis/Traveluxe/issues"
+  },
+  "homepage": "https://github.com/wtdavis/Traveluxe#readme",
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "react": "^18.3.1",
+    "react-router-dom": "^6.26.1",
+    "three": "^0.168.0",
+    "vite": "^5.4.3"
+  }
+}
