@@ -7,4 +7,5 @@ export default defineConfig({
     def:
     def"
     def:
+    DEFL
 })
