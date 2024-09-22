@@ -7,5 +7,6 @@ export default defineConfig({
     def:
     def"
     def:
+    herp
     DEFL
 })
