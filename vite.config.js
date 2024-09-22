@@ -9,5 +9,6 @@ export default defineConfig({
     def:
     herp
     derp
+    derpus
     DEFL
 })
