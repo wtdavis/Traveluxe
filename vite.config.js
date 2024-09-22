@@ -11,5 +11,6 @@ export default defineConfig({
     derp
     derpus
     mcderp
+    mcflerp
     DEFL
 })
