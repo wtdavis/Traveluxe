@@ -13,5 +13,6 @@ export default defineConfig({
     mcderp
     mcflerp
     mcflerpsus
+    mcderflus
     DEFL
 })
